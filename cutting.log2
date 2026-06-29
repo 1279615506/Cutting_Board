@@ -1,0 +1,128 @@
+17:30:17 [INFO] root: Starting Clipboard History...
+17:30:17 [INFO] monitor: ClipboardMonitor ready (initial change_count=2118)
+17:30:17 [INFO] ui: MenuBarApp ready
+17:30:20 [INFO] storage: Cleared 10 entries from today
+17:51:45 [INFO] monitor: New clipboard entry: type=text, preview=wo you
+17:51:45 [INFO] ui: New: ae52b592 | wo you
+17:52:01 [INFO] monitor: New clipboard entry: type=text, preview=wo you ddd
+17:52:01 [INFO] ui: New: 84d098e8 | wo you ddd
+17:58:26 [INFO] monitor: New clipboard entry: type=text, preview=方式一：直接双击 .app  open dist/"Text Preview Pro.app" 启动
+17:58:26 [INFO] ui: New: ccfd0890 | 方式一：直接双击 .app  open dist/"Text
+18:00:12 [INFO] monitor: New clipboard entry: type=text, preview=Launch errorSee the py2app website for debugging 
+18:00:12 [INFO] ui: New: 19a57e2b | Launch errorSee the py2app we
+18:23:44 [INFO] monitor: New clipboard entry: type=text, preview=open dist/"Text Preview Pro.app"
+18:23:44 [INFO] ui: New: 143d3392 | open dist/"Text Preview Pro.ap
+18:24:38 [INFO] monitor: New clipboard entry: type=text, preview=python3 text_preview_app.py
+18:24:38 [INFO] ui: New: ea30ccc9 | python3 text_preview_app.py
+18:29:24 [INFO] monitor: New clipboard entry: type=text, preview=[{"content":"哪个股票便宜有前途？你给我说一下。", "role":"user"}, {
+18:29:24 [INFO] ui: New: 777dbb82 | [{"content":"哪个股票便宜有前途？你给我说一下。
+18:32:53 [INFO] monitor: New clipboard entry: type=text, preview=@陈斌鑫、@胡志华、@贾洪浩
+18:32:53 [INFO] ui: New: 1b189108 | @陈斌鑫、@胡志华、@贾洪浩
+20:18:49 [INFO] monitor: New clipboard entry: type=text, preview=janaceksogg@germanymail.com
+20:18:49 [INFO] ui: New: 976710fc | janaceksogg@germanymail.com
+20:19:25 [INFO] monitor: New clipboard entry: type=text, preview=8uWywDd2l=0QMh^3
+20:19:25 [INFO] ui: New: 8d12a5e1 | 8uWywDd2l=0QMh^3
+20:19:44 [INFO] ui: Select: text | janaceksogg@germanymail.com
+20:19:44 [INFO] monitor: New clipboard entry: type=text, preview=janaceksogg@germanymail.com
+20:19:44 [INFO] ui: New: 4138b389 | janaceksogg@germanymail.com
+20:20:23 [INFO] monitor: New clipboard entry: type=text, preview=275247
+20:20:23 [INFO] ui: New: a1205bfc | 275247
+20:20:34 [INFO] ui: Select: text | janaceksogg@germanymail.com
+20:20:34 [INFO] monitor: New clipboard entry: type=text, preview=janaceksogg@germanymail.com
+20:20:34 [INFO] ui: New: 85dc38e6 | janaceksogg@germanymail.com
+20:20:47 [INFO] storage: Cleared 13 entries from today
+20:20:52 [INFO] monitor: New clipboard entry: type=text, preview=cottyfelinda@collector.org
+20:20:52 [INFO] ui: New: 65ce8f49 | cottyfelinda@collector.org
+20:20:53 [INFO] monitor: New clipboard entry: type=text, preview=6+BhgdC4NC+Ph$DN
+20:20:53 [INFO] ui: New: 0f834e90 | 6+BhgdC4NC+Ph$DN
+20:20:54 [INFO] monitor: New clipboard entry: type=text, preview=cottyfelinda@collector.org
+20:20:54 [INFO] ui: New: 2b82fcdb | cottyfelinda@collector.org
+20:21:35 [INFO] ui: Select: text | 6+BhgdC4NC+Ph$DN
+20:21:35 [INFO] monitor: New clipboard entry: type=text, preview=6+BhgdC4NC+Ph$DN
+20:21:35 [INFO] ui: New: 43d2cd45 | 6+BhgdC4NC+Ph$DN
+20:21:58 [INFO] monitor: New clipboard entry: type=text, preview=886146
+20:21:58 [INFO] ui: New: 16e03fd4 | 886146
+20:22:05 [INFO] ui: Select: text | cottyfelinda@collector.org
+20:22:05 [INFO] monitor: New clipboard entry: type=text, preview=cottyfelinda@collector.org
+20:22:05 [INFO] ui: New: 3e8f1f18 | cottyfelinda@collector.org
+20:22:16 [INFO] storage: Cleared 6 entries from today
+20:22:23 [INFO] monitor: New clipboard entry: type=text, preview=caciemurtagh@teachers.org
+20:22:23 [INFO] ui: New: 5d62846c | caciemurtagh@teachers.org
+20:22:23 [INFO] monitor: New clipboard entry: type=text, preview=BLHogv8I8D3=lKNg
+20:22:23 [INFO] ui: New: fd933f7f | BLHogv8I8D3=lKNg
+20:22:55 [INFO] ui: Select: text | caciemurtagh@teachers.org
+20:22:55 [INFO] monitor: New clipboard entry: type=text, preview=caciemurtagh@teachers.org
+20:22:55 [INFO] ui: New: 3b46fdbb | caciemurtagh@teachers.org
+20:23:36 [INFO] monitor: New clipboard entry: type=text, preview=088396
+20:23:36 [INFO] ui: New: 2c4df1b0 | 088396
+20:23:42 [INFO] ui: Select: text | caciemurtagh@teachers.org
+20:23:42 [INFO] monitor: New clipboard entry: type=text, preview=caciemurtagh@teachers.org
+20:23:42 [INFO] ui: New: 49230c21 | caciemurtagh@teachers.org
+20:45:35 [INFO] storage: Cleared 5 entries from today
+20:45:37 [INFO] monitor: New clipboard entry: type=text, preview=cloydphyllip@graduate.org
+20:45:37 [INFO] ui: New: 51a859b9 | cloydphyllip@graduate.org
+20:45:38 [INFO] monitor: New clipboard entry: type=text, preview=ci77$?y40sQN^7hi
+20:45:38 [INFO] ui: New: 8be2d18b | ci77$?y40sQN^7hi
+20:47:10 [INFO] ui: Select: text | cloydphyllip@graduate.org
+20:47:10 [INFO] monitor: New clipboard entry: type=text, preview=cloydphyllip@graduate.org
+20:47:10 [INFO] ui: New: f1f84cf5 | cloydphyllip@graduate.org
+20:47:43 [INFO] monitor: New clipboard entry: type=text, preview=714437
+20:47:43 [INFO] ui: New: f9ceab72 | 714437
+20:47:52 [INFO] ui: Select: text | cloydphyllip@graduate.org
+20:47:52 [INFO] monitor: New clipboard entry: type=text, preview=cloydphyllip@graduate.org
+20:47:52 [INFO] ui: New: 2c7bb218 | cloydphyllip@graduate.org
+20:47:58 [INFO] storage: Cleared 5 entries from today
+20:48:05 [INFO] monitor: New clipboard entry: type=text, preview=phillipegirardin@realtyagent.com
+20:48:05 [INFO] ui: New: cd83277c | phillipegirardin@realtyagent.c
+20:48:06 [INFO] monitor: New clipboard entry: type=text, preview=MlzxbySm2UI+f=$C
+20:48:06 [INFO] ui: New: 57c3bdcb | MlzxbySm2UI+f=$C
+20:48:25 [INFO] ui: Select: text | phillipegirardin@realtyagent.c
+20:48:25 [INFO] monitor: New clipboard entry: type=text, preview=phillipegirardin@realtyagent.com
+20:48:25 [INFO] ui: New: 040079cc | phillipegirardin@realtyagent.c
+21:18:04 [INFO] ui: Select: text | phillipegirardin@realtyagent.c
+21:18:21 [INFO] ui: Select: text | MlzxbySm2UI+f=$C
+21:18:21 [INFO] monitor: New clipboard entry: type=text, preview=MlzxbySm2UI+f=$C
+21:18:21 [INFO] ui: New: 03f31704 | MlzxbySm2UI+f=$C
+21:18:26 [INFO] ui: Select: text | phillipegirardin@realtyagent.c
+21:18:26 [INFO] monitor: New clipboard entry: type=text, preview=phillipegirardin@realtyagent.com
+21:18:26 [INFO] ui: New: 89b6fee5 | phillipegirardin@realtyagent.c
+21:18:29 [INFO] ui: Select: text | phillipegirardin@realtyagent.c
+21:19:19 [INFO] monitor: New clipboard entry: type=text, preview=866433
+21:19:19 [INFO] ui: New: f457c615 | 866433
+10:05:36 [INFO] storage: Cleared 0 entries from today
+10:08:17 [INFO] monitor: New clipboard entry: type=text, preview=@贾洪浩、@裴小萱 、@李鑫2 、@吴放、 @唐溶 、@王程 、@罗文婷 、@李海龙 @文辉 @刘芷
+10:08:17 [INFO] ui: New: a8df891b | @贾洪浩、@裴小萱 、@李鑫2 、@吴放、 @唐溶 、@王程
+10:11:23 [INFO] monitor: New clipboard entry: type=text, preview=主需问题,误区问题,必要点拆分过细,必要点不合理,考点可以判对劝退,考点过泛，没有指定数据
+10:11:23 [INFO] ui: New: 1423d907 | 主需问题,误区问题,必要点拆分过细,必要点不合理,考点可以判
+10:24:17 [INFO] monitor: New clipboard entry: type=text, preview=1. 必要点 先明确目前无可核实的权威事故原因｜真实性 回复应直接说明：就“盐边县高坪村2026年6
+10:24:17 [INFO] ui: New: 5457c233 | 1. 必要点 先明确目前无可核实的权威事故原因｜真实性 回复
+10:25:18 [INFO] monitor: New clipboard entry: type=text, preview="1. 必要点 先明确目前无可核实的权威事故原因｜真实性 回复应直接说明：就“盐边县高坪村2026年
+10:25:18 [INFO] ui: New: dea5797a | "1. 必要点 先明确目前无可核实的权威事故原因｜真实性 回
+10:30:06 [INFO] monitor: New clipboard entry: type=text, preview=那我重立的话，是不是就是要把那个申请拖欠工资的，还有加付赔偿金的这两条要删掉？
+10:30:06 [INFO] ui: New: fcd11b80 | 那我重立的话，是不是就是要把那个申请拖欠工资的，还有加付赔偿
+10:42:36 [INFO] monitor: New clipboard entry: type=text, preview=n7gx26ysuPxd
+10:42:36 [INFO] ui: New: a7ed93dd | n7gx26ysuPxd
+10:42:37 [INFO] monitor: New clipboard entry: type=text, preview=keljzjomzoxkf@uymail.com
+10:42:37 [INFO] ui: New: 32c8c000 | keljzjomzoxkf@uymail.com
+10:43:09 [INFO] ui: Select: text | n7gx26ysuPxd
+10:43:09 [INFO] monitor: New clipboard entry: type=text, preview=n7gx26ysuPxd
+10:43:09 [INFO] ui: New: c9723574 | n7gx26ysuPxd
+10:43:24 [INFO] ui: Select: text | keljzjomzoxkf@uymail.com
+10:43:24 [INFO] monitor: New clipboard entry: type=text, preview=keljzjomzoxkf@uymail.com
+10:43:24 [INFO] ui: New: ea0a0097 | keljzjomzoxkf@uymail.com
+10:43:45 [INFO] monitor: New clipboard entry: type=text, preview=970511
+10:43:45 [INFO] ui: New: b3a2f67d | 970511
+10:44:23 [INFO] storage: Cleared 10 entries from today
+10:44:31 [INFO] monitor: New clipboard entry: type=text, preview=m5fquv1b5sdW
+10:44:31 [INFO] ui: New: f34d5f42 | m5fquv1b5sdW
+10:44:31 [INFO] monitor: New clipboard entry: type=text, preview=zmxgaktntdxse@englandmail.com
+10:44:31 [INFO] ui: New: 452a0fbf | zmxgaktntdxse@englandmail.com
+10:44:56 [INFO] ui: Select: text | m5fquv1b5sdW
+10:44:56 [INFO] monitor: New clipboard entry: type=text, preview=m5fquv1b5sdW
+10:44:56 [INFO] ui: New: 9a45827e | m5fquv1b5sdW
+10:45:36 [INFO] monitor: New clipboard entry: type=text, preview=077121
+10:45:36 [INFO] ui: New: cb963e15 | 077121
+10:45:52 [INFO] storage: Cleared 4 entries from today
+10:45:56 [INFO] storage: Cleared 0 entries from today
+10:46:29 [INFO] storage: Cleared 0 entries from today
+10:46:46 [INFO] ui: Quit

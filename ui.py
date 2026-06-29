@@ -117,6 +117,7 @@ class MenuBarApp(rumps.App):
         items.append(rumps.separator)
         items.append(rumps.MenuItem("📂 打开历史文件夹", callback=self._open_folder))
         items.append(rumps.MenuItem("🗑 清空今天的历史", callback=self._clear_today))
+        items.append(rumps.MenuItem("🗑 清空所有历史", callback=self._clear_all))
         items.append(rumps.separator)
         items.append(rumps.MenuItem(
             f"今日 {len(self._storage.get_today_entries())} 条  |  点击条目 → Cmd+V 粘贴",
@@ -153,6 +154,11 @@ class MenuBarApp(rumps.App):
         self._storage.clear_today()
         self._refresh_menu()
         rumps.notification("历史粘贴板", "已清空", "今天的历史记录已删除")
+
+    def _clear_all(self, _):
+        self._storage.clear_all()
+        self._refresh_menu()
+        rumps.notification("历史粘贴板", "已清空", "所有历史记录已删除")
 
     def _quit(self, _):
         logger.info("Quit")
